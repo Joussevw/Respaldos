@@ -1,1 +1,4 @@
 proyecto de respaldo
+
+	1. Crear correos de todos los clientes
+	2. Asociar las nubes a todos los clientes
